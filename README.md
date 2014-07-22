@@ -1,4 +1,6 @@
-pyladiesrecife.github.io
-========================
+## PyLadies Recife
+---------
+Thi website was made based on PyLadies Natal website.
 
-PyLadies Recife website
+If you want to use this layout to your Pyladies event, feel free to fork it (and contribute).
+ 
